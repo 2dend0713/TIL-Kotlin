@@ -1,10 +1,5 @@
 /* KOTLIN SYNTAX */
 
-// 1. Variables
-
-val xGlobal = 10
-var yGlobal = 20  // variables with "var" keyword can be reassigned
-
 val fruits = listOf("banana", "avocado", "apple", "kiwifruit", "grape")  // collection
 
 
@@ -50,12 +45,6 @@ fun main() {
 
     print("Hello, ")  // print without a line break
     println("Kotlin")
-    
-
-    // 2) variables
-    yGlobal++
-    println(xGlobal)
-    println(yGlobal)
     
 
     // 3) functions
