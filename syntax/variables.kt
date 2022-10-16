@@ -9,7 +9,7 @@ fun main() {
     var mutableNumber = 20  // use camel case
     
     mutableNumber++
-    
-    println(IMMUTABLE_NUMBER)
-    println(mutableNumber)
+
+    println(IMMUTABLE_NUMBER)  // 10
+    println(mutableNumber)  // 21
 }
