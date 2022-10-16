@@ -2,7 +2,7 @@ Story of learning Kotlin will be recorded :fire:
 
 
 
-#### 1. Convention
+### 1. Convention
 
 
 
